@@ -3,7 +3,6 @@ function generateUniqueId() {
   return `_${Math.random().toString(36).slice(2, 9)}`;
 }
 
-
 // TODO: buatlah variabel yang menampung data orders
 let orders;
 
@@ -19,4 +18,10 @@ function calculateTotalRevenue() {}
 // TODO: selesaikan fungsi deleteOrder
 function deleteOrder(id) {}
 
-export { orders, addOrder, updateOrderStatus, calculateTotalRevenue, deleteOrder };
+export {
+  orders,
+  addOrder,
+  updateOrderStatus,
+  calculateTotalRevenue,
+  deleteOrder,
+};
