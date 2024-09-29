@@ -1,4 +1,4 @@
-# Evaluasi Pembelajaran Akhir/ Final Learning Evaluation - Final Assesment (Dicoding Submission - Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming))
+# Final Assesment (Dicoding Submission - Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming))
 
 ## Author
 
