@@ -14,6 +14,6 @@ A project demonstrating basic JavaScript programming skills, including writing c
 
 ## LICENSE
 
-<!-- [MIT LICENSE](LICENSE) -->
+[MIT LICENSE](LICENSE)
 
 &copy; 2024 Ryan Gading Abdullah. All rights reserved.
